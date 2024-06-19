@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+}
+
+.header-element {
+  background-color: red;
+  height: 50px;
+  width: 200px;
+}
+
+.intro-section {
+  text-align: center;
+  background-image: url("../images/background-image.jpg");
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  height: 800px;
+}
+
+.intro-container h5 {
+  font-family: "poppins-bold", sans-serif;
+  font-weight: 900;
+  font-size: 1.2rem;
+  color: #cc005f;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+  text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+}
+
+.intro-container h1 {
+  font-family: "poppins-medium", sans-serif;
+  color: white;
+  font-size: 6rem;
+}
